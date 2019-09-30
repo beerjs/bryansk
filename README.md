@@ -19,3 +19,4 @@
 #0      | [Куйбышев](https://github.com/beerjs/bryansk/issues/1)                  | 24 января 2019
 #1      | [HEAD BAR](https://github.com/beerjs/bryansk/issues/2)                  | 21 февраля 2019
 #2      | [Августин](https://github.com/beerjs/bryansk/issues/4)                  | 24 мая 2019
+#3      | [Августин](https://github.com/beerjs/bryansk/issues/5)                  | 27 сентября 2019
